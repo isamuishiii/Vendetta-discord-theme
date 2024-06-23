@@ -68,9 +68,9 @@
   },
   "spec": 2,
   "background": {
-    "blur": 0,
+    "blur": 5,
     "url": "https://raw.githubusercontent.com/isamuishiii/Vendetta-discord-theme/main/theme_BG/image-12.png",
-    "alpha": 0.9,
+    "alpha": 1.9,
     "color": "#0A0A0A"
   }
 }
